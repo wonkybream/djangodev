@@ -1,4 +1,4 @@
-# Django dev
+# Django application development
 
 My Django application development environment. Supposed to make my life easier by allowing faster and easy way to test and develop django applications.
 
