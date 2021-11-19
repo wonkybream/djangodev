@@ -2,7 +2,7 @@
 
 [![Static analysis](https://github.com/wonkybream/djangodev/actions/workflows/static-analysis.yml/badge.svg?branch=main)](https://github.com/wonkybream/djangodev/actions/workflows/static-analysis.yml)
 
-My Django application development environment. Supposed to make my life easier by allowing faster and easy way to test and develop django applications.
+My Django application development environment. Supposed to make my life easier by allowing faster way to test and develop Django applications.
 
 I'm trying to keep this quite clean, so only applications I'm going to publish gets committed.
 
