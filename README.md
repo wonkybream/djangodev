@@ -1,6 +1,7 @@
 # Django application development
 
 [![Static analysis](https://github.com/wonkybream/djangodev/actions/workflows/static-analysis.yml/badge.svg?branch=main)](https://github.com/wonkybream/djangodev/actions/workflows/static-analysis.yml)
+[![Tests](https://github.com/wonkybream/djangodev/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/wonkybream/djangodev/actions/workflows/tests.yml)
 
 My Django application development environment. Supposed to make my life easier by allowing faster way to test and develop Django applications.
 
