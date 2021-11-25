@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rdtwt.apps.RdtwtConfig',
 ]
 
 MIDDLEWARE = [
@@ -128,7 +127,3 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-
-# RDTWT SETTINGS
-RDTWT_POSTGRESQL_IMAGE = 'postgres:14.1'
